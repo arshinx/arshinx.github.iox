@@ -1,0 +1,37 @@
+# Site settings
+title: Blog - Personal Notes on Technology and Research
+email: arshin.jain@gmail.com
+description: Personal Notes written by Arshin about his Softwares, Research and Apps.
+#baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.arshin.me" # the base hostname & protocol for your site
+twitter_username: arshin
+paginate: 3
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: /:title #pretty
+
+#Default settings
+defaults:
+    -
+      scope:
+        path: ""
+        type: "posts"
+      values:
+        author: Arshin Jain
+        layout: "post" # values for type post
+        category: "conferences"
+        comments: true
+    -
+      scope:
+        path: ""
+        type: "pages"
+      values:
+        layout: "page" # values for type post
+    -
+      scope:
+        path: ""
+        type: "drafts"
+      values:
+        layout: "draft" # values for type post

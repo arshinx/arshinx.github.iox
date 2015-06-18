@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog - Personal Notes on Technology and Research</title>
+    <description>Personal Notes written by Arshin about his Softwares, Research and Apps.</description>
+    <link>http://blog.arshin.me/</link>
+    <atom:link href="http://blog.arshin.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Jun 2015 23:08:46 -0700</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2015 23:08:46 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>IBM: Watson Learning Japanese</title>
+        <description>&lt;p&gt;IBM is teaching its Watson Supercomputer Japanese—a language from the land of technology, a place where robots are live and interact with general public.
+IBM provides access to Watson’s power for developers through IBM Bluemix subscriptions on IBM’s developer section.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 22:48:06 -0700</pubDate>
+        <link>http://blog.arshin.me/ibmbluemix</link>
+        <guid isPermaLink="true">http://blog.arshin.me/ibmbluemix</guid>
+        
+        
+        <category>virtual-reality</category>
+        
+      </item>
+    
+      <item>
+        <title>Virtual Reality and FaceBook</title>
+        <description>&lt;p&gt;Facebook plans to extend their VR brand Oculus into Augmented Reality in the future.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jun 2015 22:25:50 -0700</pubDate>
+        <link>http://blog.arshin.me/virtualreality</link>
+        <guid isPermaLink="true">http://blog.arshin.me/virtualreality</guid>
+        
+        
+        <category>virtual-reality</category>
+        
+      </item>
+    
+      <item>
+        <title>First Ever Augmented Reality Hackathon</title>
+        <description>&lt;p&gt;Meta Hackathon is the First ever Augmented Reality Hackathon held in San Francisco on January 15th 2015. It was hosted by Meta.&lt;/p&gt;
+
+&lt;p&gt;My team developed an application that allows individuals to taste the fruits and/or vegetables around them in multiple ways.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Apr 2015 02:45:36 -0700</pubDate>
+        <link>http://blog.arshin.me/Augmented Reality Hackathon</link>
+        <guid isPermaLink="true">http://blog.arshin.me/Augmented Reality Hackathon</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>History Of Time: Clockmaking</title>
+        <description>&lt;p&gt;My second official research paper was on History of Clockmaking with a linear association of time. The time-constraint was specified from 1800s to 1850s. In this paper, I began exploring the reasons why clocks—an irreplaceable device—was not universally present. I was astounded by my findings, though my thoughts were later replaced by quasi-darwinian ideology.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, my results indicated that clocks were considerably expensive and were regarded only as a symbol of wealth and luxury, leaving our current idea of clocks as a meaningless thought. Even more interesting was the fact that this topic, however so interesting it may be, was never before written about.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://blog.arshin.me/History Of Time</link>
+        <guid isPermaLink="true">http://blog.arshin.me/History Of Time</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Converge</title>
+        <description>&lt;p&gt;Converge assembles some of the best speakers in the industry to inform and inspire you! It’s for the love of the web and the love of our community. This year’s event includes a full schedule of keynotes, sessions, and workshops.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://convergese.com/&quot;&gt;Check it Out!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://blog.arshin.me/converge</link>
+        <guid isPermaLink="true">http://blog.arshin.me/converge</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+  </channel>
+</rss>
