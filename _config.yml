@@ -2,7 +2,7 @@
 title: Blog - Personal Notes on Technology and Research
 email: arshin.jain@gmail.com
 description: Personal Notes written by Arshin about his Softwares, Research and Apps.
-#baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://blog.arshin.me" # the base hostname & protocol for your site
 twitter_username: arshin
 paginate: 3
