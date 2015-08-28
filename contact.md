@@ -3,4 +3,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Greetings! To contact me, [send an email](mailto:{{ site.email }}).
+Dear visitors,
+
+I will respond to all polite and succint emails. To contact me via email, [click here](mailto:{{ site.email }}).
